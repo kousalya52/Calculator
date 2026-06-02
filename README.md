@@ -22,12 +22,7 @@ A simple and responsive Calculator built using **HTML, CSS, and JavaScript**. Th
 
 ## 📸 Screenshot
 
-Add a screenshot of your calculator here.
-
-```text
-Example:
-screenshots/calculator.png
-```
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/cf4112f8-5b1b-4a88-a5fd-9615cd3456bc" />
 
 ## 📂 Project Structure
 
@@ -71,7 +66,6 @@ git clone https://github.com/kousalya52/calculator-app.git
 
 ## 🌐 Live Demo
 
-Add your deployed project link here:
 https://kousalya52.github.io/Calculator/
 
 ## 🤝 Contributing
