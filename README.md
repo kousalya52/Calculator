@@ -72,10 +72,7 @@ git clone https://github.com/kousalya52/calculator-app.git
 ## 🌐 Live Demo
 
 Add your deployed project link here:
-
-```text
-https://your-demo-link.com
-```
+https://kousalya52.github.io/Calculator/
 
 ## 🤝 Contributing
 
