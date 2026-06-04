@@ -2,6 +2,10 @@
 
 A simple and responsive Calculator built using **HTML, CSS, and JavaScript**. This calculator performs basic arithmetic operations with a clean user interface and mobile-friendly design.
 
+## 🌐 Live Demo
+
+https://kousalya52.github.io/Calculator/
+
 ## 🚀 Features
 
 * Addition (+)
@@ -19,10 +23,6 @@ A simple and responsive Calculator built using **HTML, CSS, and JavaScript**. Th
 * HTML5
 * CSS3
 * JavaScript
-
-## 📸 Screenshot
-
-<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/cf4112f8-5b1b-4a88-a5fd-9615cd3456bc" />
 
 ## 📂 Project Structure
 
@@ -64,10 +64,6 @@ git clone https://github.com/kousalya52/calculator-app.git
 * Calculation history
 * Dark/Light mode toggle
 
-## 🌐 Live Demo
-
-https://kousalya52.github.io/Calculator/
-
 ## 🤝 Contributing
 
 Contributions are welcome. Feel free to fork the repository and submit a pull request.
@@ -75,6 +71,10 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 📸 Screenshot
+
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/53757162-e11f-43df-b3ea-d26dc924b1e1" />
 
 ## 👩‍💻 Author
 
